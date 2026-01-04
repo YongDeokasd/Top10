@@ -56,7 +56,6 @@
 ## 설명.
 
 소프트웨어 공급망 실패는 소프트웨어 개발, 배포, 업데이트하는 과정에서 발생하는 침해사고를 의미한다. 이는 주로 외부 코드, 도구, 시스템이 신뢰하는 의존성들에서의 악의적인 변조나 취약점이 원인이 된다.
-// Software supply chain failures are breakdowns or other compromises in the process of building, distributing, or updating software에서 breakdown 이란 용어를 고장으로 해석했는데, 문맥에 맞게 마땅히 번역할 단어가 없고, 침해사고 라는 단어로도 충분하다 생각해 제외했습니다. //
 
 다음과 같을 시 취약할 가능성이 있다.
 
